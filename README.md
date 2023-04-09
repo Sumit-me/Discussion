@@ -1,4 +1,4 @@
-### Crud
+# Crud 
 This is a PHP CRUD (Create, Read, Update, Delete) project for managing notes. It allows users to create new notes, view existing notes, edit notes, and delete notes. The project uses a MySQL database to store the notes data.
 
 The project consists of a PHP script that connects to the database and performs CRUD operations. The script uses the Bootstrap CSS framework for styling and the jQuery DataTables plugin for displaying the notes in a table format.
